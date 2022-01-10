@@ -247,10 +247,10 @@
    * Testimonials slider
    */
   new Swiper('.testimonials-slider', {
-    speed: 600,
+    speed: 6000,
     loop: true,
     autoplay: {
-      delay: 5000,
+      delay: 30000,
       disableOnInteraction: false
     },
     navigation: {
@@ -280,10 +280,10 @@
    * Testimonials2 slider
    */
    new Swiper('.testimonials2-slider', {
-    speed: 600,
+    speed: 6000,
     loop: true,
     autoplay: {
-      delay: 5000,
+      delay: 30000,
       disableOnInteraction: false
     },
     navigation: {
